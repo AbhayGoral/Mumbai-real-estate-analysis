@@ -36,7 +36,7 @@ An end-to-end data analytics project analyzing 50,000 Mumbai residential propert
 Mumbai-Real-Estate-Analysis/
 
 ├── data/
-│   └── sales.csv
+│   └── secondary_sales.csv
 │
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
@@ -82,7 +82,6 @@ Mumbai Real Estate Sales Dataset (2020–2026)
 
 - 50,000 Property Listings
 - 32 Features
-- No Missing Values
 
 ### Key Attributes
 
@@ -357,5 +356,7 @@ This project demonstrates an end-to-end data analytics workflow:
 - Machine Learning
 - Dashboard Development
 - Insight Generation
+
+## Author - Abhay Goral
 
 The final solution combines predictive analytics with business intelligence to better understand Mumbai's residential real estate market.
