@@ -35,15 +35,11 @@ An end-to-end data analytics project analyzing 50,000 Mumbai residential propert
 ```text
 Mumbai-Real-Estate-Analysis/
 
-├── data/
-│   └── secondary_sales.csv
-│
-├── notebooks/
-│   ├── 01_Data_Understanding.ipynb
-│   └── 02_Price_Prediction.ipynb
-│
 ├── dashboard/
 │   └── Mumbai_Real_Estate_Dashboard.pbix
+│
+├── dataset/
+│   └── secondary_sales.csv
 │
 ├── images/
 │   ├── dashboard_page1.png
@@ -51,7 +47,12 @@ Mumbai-Real-Estate-Analysis/
 │   ├── dashboard_page3.png
 │   └── model_results.png
 │
-├── requirements.txt
+├── notebooks/
+│   ├── 01_Data_Understanding.ipynb
+│   └── 02_Price_Prediction.ipynb
+│
+├── requirements/
+│     └── requirements.txt
 │
 └── README.md
 ```
